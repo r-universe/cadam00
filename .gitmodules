@@ -11,3 +11,6 @@
 [submodule "priorCON"]
 	path = priorCON
 	url = https://github.com/cadam00/priorcon
+[submodule "scoredec"]
+	path = scoredec
+	url = https://github.com/cadam00/scoredec
