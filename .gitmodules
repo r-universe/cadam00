@@ -5,6 +5,9 @@
 [submodule "corbouli"]
 	path = corbouli
 	url = https://github.com/cadam00/corbouli
+[submodule "lightAUC"]
+	path = lightAUC
+	url = https://github.com/cadam00/lightauc
 [submodule "poobly"]
 	path = poobly
 	url = https://github.com/cadam00/poobly
