@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SeaGraphs"]
+	path = SeaGraphs
+	url = https://github.com/cadam00/seagraphs
 [submodule "corbouli"]
 	path = corbouli
 	url = https://github.com/cadam00/corbouli
